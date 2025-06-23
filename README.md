@@ -234,8 +234,9 @@ GROUP BY 1
 This analysis provide a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
 
 ## Author
+
 ## Project by **Saloni Jagannath Mohite** 
-🎓 BSc Data Science Student at Symbiosis Skills and Professional University Pune.
-💻 Passionate about data analysis, SQL, and data visualization.  
-📬 Email: mohitesaloni213@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/saloni-mohite-215950313) 
+- 🎓 BSc Data Science Student at Symbiosis Skills and Professional University Pune.
+- 💻 Passionate about data analysis, SQL, and data visualization.  
+- 📬 Email: mohitesaloni213@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saloni-mohite-215950313) 
